@@ -1,0 +1,2 @@
+# TP1_POO_Dessin_Vectoriel
+Votre entreprise désire étudier la faisabilité d’un logiciel de dessin vectoriel. Dans ce cadre, votre équipe a été mandatée pour effectuer une preuve de concept (PoC) qui pourrait servir au démarrage du projet si les résultats sont concluants. Dans le cadre de cette PoC, votre environnent de développement est Java en version 1.8. Vous devez utiliser les bibliothèques Swing et Java2d.
